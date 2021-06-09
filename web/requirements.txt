@@ -1,0 +1,5 @@
+Flask==1.1.2
+redis==3.5.3
+peewee==3.14.0
+PyJWT==1.4.2
+PyMySQL==0.9.3
